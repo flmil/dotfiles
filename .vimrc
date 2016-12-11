@@ -69,6 +69,9 @@ set smartindent
 set background=dark
 colorscheme hybrid
 autocmd VimEnter * execute 'NERDTree'
+" 行を強調表示
+set cursorline
+
 
 
 
