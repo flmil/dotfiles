@@ -63,6 +63,7 @@ syntax on
 set tabstop=2
 set smartindent 
 set ambiwidth=double
+set backspace=indent,eol,start
 set shiftwidth=2
 set smartindent
 "colorscheme hybrid "カラー設定
